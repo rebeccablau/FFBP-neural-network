@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+
+# Distribution & Build Artifacts
+build/
+dist/
+*.egg-info/
+
+sin_data.txt
+network_graphs.py
+.DS_Store
