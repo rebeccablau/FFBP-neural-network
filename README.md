@@ -93,4 +93,3 @@ pip install -r requirements.txt
 ```
 python3 FFBPNetwork.py
 ```
-# FFBP-neural-network
